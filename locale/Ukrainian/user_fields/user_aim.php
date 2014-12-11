@@ -1,5 +1,1 @@
-<?php
-$locale['uf_aim'] = "AIM ID";
-$locale['uf_aim_desc'] = "AOL Instant Messenger";
-$locale['uf_aim_error'] = "AIM ID íå ìîæå áóòè ïóñòèì.";
-?>
+ï»¿<?php$locale['uf_aim'] = "AIM ID";$locale['uf_aim_desc'] = "AOL Instant Messenger";$locale['uf_aim_error'] = "AIM ID Ð½Ðµ Ð¼Ð¾Ð¶Ðµ Ð±ÑƒÑ‚Ð¸ Ð¿ÑƒÑÑ‚Ð¸Ð¼.";?>

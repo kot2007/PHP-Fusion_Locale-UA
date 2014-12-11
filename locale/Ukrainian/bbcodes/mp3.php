@@ -1,5 +1,1 @@
-<?php
-$locale['bb_mp3'] = "Â³äòâîðèòè";
-$locale['bb_mp3_description'] = "Âáóäóâàòè ïðîãðàâà÷ MP3";
-$locale['bb_mp3_usage'] = "URL ôàéëó ôîðìàòó MP3";
-?>
+ï»¿<?php$locale['bb_mp3'] = "Ð’Ñ–Ð´Ñ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸";$locale['bb_mp3_description'] = "Ð’Ð±ÑƒÐ´ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð²Ð°Ñ‡ MP3";$locale['bb_mp3_usage'] = "URL Ñ„Ð°Ð¹Ð»Ñƒ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ñƒ MP3";?>

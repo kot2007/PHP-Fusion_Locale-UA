@@ -1,5 +1,1 @@
-<?php
-$locale['uf_yahoo'] = "Yahoo";
-$locale['uf_yahoo_desc'] = "Yahoo Instant Messenger";
-$locale['uf_yahoo_error'] = "Íîìåð Yahoo ID íå ìîæå áóòè ïóñòèì.";
-?>
+ï»¿<?php$locale['uf_yahoo'] = "Yahoo";$locale['uf_yahoo_desc'] = "Yahoo Instant Messenger";$locale['uf_yahoo_error'] = "ÐÐ¾Ð¼ÐµÑ€ Yahoo ID Ð½Ðµ Ð¼Ð¾Ð¶Ðµ Ð±ÑƒÑ‚Ð¸ Ð¿ÑƒÑÑ‚Ð¸Ð¼.";?>

@@ -1,5 +1,1 @@
-<?php
-$locale['bb_youtube'] = "YouTube Video";
-$locale['bb_youtube_description'] = "Âáóäóâàòè â³äåî ç YouTube";
-$locale['bb_youtube_usage'] = "ID â³äåî íà YouTube";
-?>
+ï»¿<?php$locale['bb_youtube'] = "YouTube Video";$locale['bb_youtube_description'] = "Ð’Ð±ÑƒÐ´ÑƒÐ²Ð°Ñ‚Ð¸ Ð²Ñ–Ð´ÐµÐ¾ Ð· YouTube";$locale['bb_youtube_usage'] = "ÐÐ¾Ð¼ÐµÑ€ ID Ð²Ñ–Ð´ÐµÐ¾ Ð½Ð° YouTube";?>

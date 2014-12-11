@@ -1,5 +1,1 @@
-<?php
-$locale['uf_birthdate'] = "Äàòà íàðîäæåííÿ";
-$locale['uf_birthdate_desc'] = "Äàòà íàðîäæåííÿ";
-$locale['uf_birthdate_error'] = "Äàòà íàðîäæåííÿ íåêîðåêòíà.";
-?>
+ï»¿<?php$locale['uf_birthdate'] = "Ð”Ð°Ñ‚Ð° Ð½Ð°Ñ€Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ";$locale['uf_birthdate_desc'] = "Ð”Ð°Ñ‚Ð° Ð½Ð°Ñ€Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ";$locale['uf_birthdate_error'] = "Ð”Ð°Ñ‚Ð° Ð½Ð°Ñ€Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ Ð½ÐµÐºÐ¾Ñ€ÐµÐºÑ‚Ð½Ð°.";?>

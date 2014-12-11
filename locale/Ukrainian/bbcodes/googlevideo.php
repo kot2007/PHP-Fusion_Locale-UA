@@ -1,5 +1,1 @@
-<?php
-$locale['bb_googlevideo'] = "GoogleVideo";
-$locale['bb_googlevideo_description'] = "Âáóäóâàòè ïðîãðàâà÷ â³äåî ç GoogleVideo";
-$locale['bb_googlevideo_usage'] = "ID â³äåî íà GoogleVideo";
-?>
+ï»¿<?php$locale['bb_googlevideo'] = "GoogleVideo";$locale['bb_googlevideo_description'] = "Ð’Ð±ÑƒÐ´ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð²Ð°Ñ‡ Ð²Ñ–Ð´ÐµÐ¾ Ð· GoogleVideo";$locale['bb_googlevideo_usage'] = "ÐÐ¾Ð¼ÐµÑ€ ID Ð²Ñ–Ð´ÐµÐ¾ Ð½Ð° GoogleVideo";?>

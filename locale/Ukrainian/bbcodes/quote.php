@@ -1,2 +1,2 @@
-<?php$locale['bb_quote_description'] = "Ïîçíà÷èòè ÿê öèòàòó";$locale['bb_quote_usage'] = "òåêñò ó ôîðìàò³ öèòàòè";$locale['bb_quote_expand'] = "Ïåðåãëÿíóòè ïîâíèé òåêñò";$locale['bb_quote_collapse'] = "Ïðèõîâàòè ïîâíèé òåêñò";$locale['bb_quote'] = "Öèòàòà";$locale['bb_wrote'] = "íàïèñàíî";
+ï»¿<?php$locale['bb_quote_description'] = "ÐŸÐ¾Ð·Ð½Ð°Ñ‡Ð¸Ñ‚Ð¸ ÑÐº Ñ†Ð¸Ñ‚Ð°Ñ‚Ñƒ";$locale['bb_quote_usage'] = "Ñ‚ÐµÐºÑÑ‚ Ñƒ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ñ– Ñ†Ð¸Ñ‚Ð°Ñ‚Ð¸";$locale['bb_quote_expand'] = "ÐŸÐµÑ€ÐµÐ³Ð»ÑÐ½ÑƒÑ‚Ð¸ Ð¿Ð¾Ð²Ð½Ð¸Ð¹ Ñ‚ÐµÐºÑÑ‚";$locale['bb_quote_collapse'] = "ÐŸÑ€Ð¸Ñ…Ð¾Ð²Ð°Ñ‚Ð¸ Ð¿Ð¾Ð²Ð½Ð¸Ð¹ Ñ‚ÐµÐºÑÑ‚";$locale['bb_quote'] = "Ð¦Ð¸Ñ‚Ð°Ñ‚Ð°";$locale['bb_wrote'] = "Ð½Ð°Ð¿Ð¸ÑÐ°Ð½Ð¾";
 ?>

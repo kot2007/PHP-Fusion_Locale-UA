@@ -1,5 +1,1 @@
-<?php
-$locale['bb_icq'] = "ICQ";
-$locale['bb_icq_description'] = "Ñòàòóñ êîðèñòóâà÷à â ICQ";
-$locale['bb_icq_usage'] = "ID êîðèñòóâà÷à â êîìóí³êàòîð³ ICQ";
-?>
+ï»¿<?php$locale['bb_icq'] = "ICQ";$locale['bb_icq_description'] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ð° Ð² ICQ";$locale['bb_icq_usage'] = "ÐÐ¾Ð¼ÐµÑ€ ID ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ð° Ð² ÐºÐ¾Ð¼ÑƒÐ½Ñ–ÐºÐ°Ñ‚Ð¾Ñ€Ñ– ICQ";?>

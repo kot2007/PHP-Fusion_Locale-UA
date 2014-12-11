@@ -1,5 +1,1 @@
-<?php
-$locale['bb_bcolor_description'] = "Çì³íèòè ôîí";
-$locale['bb_bcolor_usage'] = "òåêñò íà ôîí³ âèáðàíîãî êîëüîðó";
-$locale['bb_bcolor_hex'] = "16-òêîâå çíà÷åííÿ êîëüîðó";
-?>
+ï»¿<?php$locale['bb_bcolor_description'] = "Ð—Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸ Ñ„Ð¾Ð½";$locale['bb_bcolor_usage'] = "Ñ‚ÐµÐºÑÑ‚ Ð½Ð° Ñ„Ð¾Ð½Ñ– Ð²Ð¸Ð±Ñ€Ð°Ð½Ð¾Ð³Ð¾ ÐºÐ¾Ð»ÑŒÐ¾Ñ€Ñƒ";$locale['bb_bcolor_hex'] = "16-Ñ‚ÐºÐ¾Ð²Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ ÐºÐ¾Ð»ÑŒÐ¾Ñ€Ñƒ";?>

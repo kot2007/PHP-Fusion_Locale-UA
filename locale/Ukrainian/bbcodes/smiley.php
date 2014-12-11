@@ -1,4 +1,1 @@
-<?php
-$locale['bb_smiley_description'] = "Âñòàâèòè ñìàéë";
-$locale['bb_smiley_usage'] = "ãðàô³÷íå çîáðàæåííÿ ñìàéëó";
-?>
+ï»¿<?php$locale['bb_smiley_description'] = "Ð’ÑÑ‚Ð°Ð²Ð¸Ñ‚Ð¸ ÑƒÑÐ¼Ñ–Ñ…Ð°Ð¹Ð»Ð¸Ðº";$locale['bb_smiley_usage'] = "Ð³Ñ€Ð°Ñ„Ñ–Ñ‡Ð½Ðµ Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½Ñ ÑƒÑÐ¼Ñ–Ñ…Ð°Ð¹Ð»Ð¸ÐºÐ°";?>

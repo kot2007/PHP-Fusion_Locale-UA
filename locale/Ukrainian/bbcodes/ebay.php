@@ -1,5 +1,1 @@
-<?php
-$locale['bb_ebay'] = "eBay";
-$locale['bb_ebay_description'] = "Âáóäóâàòè ïîøóêîâèé ñåðâ³ñ eBay";
-$locale['bb_ebay_usage'] = "òåêñò äëÿ ïîøóêó íà ïîðòàë³ eBay";
-?>
+ï»¿<?php$locale['bb_ebay'] = "eBay";$locale['bb_ebay_description'] = "Ð’Ð±ÑƒÐ´ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ð¾ÑˆÑƒÐºÐ¾Ð²Ð¸Ð¹ ÑÐµÑ€Ð²Ñ–Ñ eBay";$locale['bb_ebay_usage'] = "Ñ‚ÐµÐºÑÑ‚ Ð´Ð»Â¤ Ð¿Ð¾ÑˆÑƒÐºÑƒ Ð½Ð° Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ñ– eBay";?>

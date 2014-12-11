@@ -1,4 +1,1 @@
-<?php
-$locale['bb_tlen_description'] = "Ñòàòóñ êîðèñòóâà÷à â Tlen";
-$locale['bb_tlen_usage'] = "ID êîðèñòóâà÷à â ïîëüñüêîìó êîìóí³êàòîð³ Tlen";
-?>
+ï»¿<?php$locale['bb_tlen_description'] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ð° Ð² Tlen";$locale['bb_tlen_usage'] = "ÐÐ¾Ð¼ÐµÑ€ ID ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ð° Ð² Ð¿Ð¾Ð»ÑŒÑÑŒÐºÐ¾Ð¼Ñƒ ÐºÐ¾Ð¼ÑƒÐ½Ñ–ÐºÐ°Ñ‚Ð¾Ñ€Ñ– Tlen";?>

@@ -1,5 +1,1 @@
-<?php
-$locale['bb_yahoo'] = "Yahoo";
-$locale['bb_yahoo_description'] = "Âáóäóâàòè ïîøóêîâèé ñåðâ³ñ Yahoo";
-$locale['bb_yahoo_usage'] = "òåêñò äëÿ ïîøóêó â Yahoo!";
-?>
+ï»¿<?php$locale['bb_yahoo'] = "Yahoo";$locale['bb_yahoo_description'] = "Ð’Ð±ÑƒÐ´ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ð¾ÑˆÑƒÐºÐ¾Ð²Ð¸Ð¹ ÑÐµÑ€Ð²Ñ–Ñ Yahoo";$locale['bb_yahoo_usage'] = "Ñ‚ÐµÐºÑÑ‚ Ð´Ð»Â¤ Ð¿Ð¾ÑˆÑƒÐºÑƒ Ð² Yahoo!";?>

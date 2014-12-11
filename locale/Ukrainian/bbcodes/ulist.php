@@ -1,7 +1,1 @@
-<?php
-$locale['bb_ulist_description'] = "Ñòâîðèòè ìàðêîâàíèé ñïèñîê âèçíà÷åíîãî òèïó";
-$locale['bb_ulist_usage'] = "Teêñò 1 :Enter: Teêñò 2 :Enter: ³ ò. ä.";
-$locale['bb_ulist_1'] = "äèñê";
-$locale['bb_ulist_2'] = "êîëî";
-$locale['bb_ulist_3'] = "êâàäðàò";
-?>
+ï»¿<?php$locale['bb_ulist_description'] = "Ð¡Ñ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸ Ð¼Ð°Ñ€ÐºÐ¾Ð²Ð°Ð½Ð¸Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº Ð²Ð¸Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ñƒ";$locale['bb_ulist_usage'] = "TeÐºÑÑ‚ 1 :Enter: TeÐºÑÑ‚ 2 :Enter: Ñ– Ñ‚. Ð´.";$locale['bb_ulist_1'] = "Ð´Ð¸ÑÐº";$locale['bb_ulist_2'] = "ÐºÐ¾Ð»Ð¾";$locale['bb_ulist_3'] = "ÐºÐ²Ð°Ð´Ñ€Ð°Ñ‚";?>

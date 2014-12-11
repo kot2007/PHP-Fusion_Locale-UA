@@ -1,6 +1,1 @@
-<?php
-$locale['bb_php'] = "PHP";
-$locale['bb_php_description'] = "Ïîêàçóâàòè ÿê êîä PHP";
-$locale['bb_php_usage'] = "òåêñò ó ôîðìàò³ êîäó PHP";
-$locale['bb_php_save'] = "Çàâàíòàæèòè";
-?>
+ï»¿<?php$locale['bb_php'] = "PHP";$locale['bb_php_description'] = "ÐŸÐ¾ÐºÐ°Ð·ÑƒÐ²Ð°Ñ‚Ð¸ ÑÐº ÐºÐ¾Ð´ PHP";$locale['bb_php_usage'] = "Ñ‚ÐµÐºÑÑ‚ Ñƒ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ñ– ÐºÐ¾Ð´Ñƒ PHP";$locale['bb_php_save'] = "Ð—Ð°Ð²Ð°Ð½Ñ‚Ð°Ð¶Ð¸Ñ‚Ð¸";?>

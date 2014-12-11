@@ -1,6 +1,1 @@
-<?php
-$locale['uf_web'] = "Ñàéò";
-$locale['uf_web_desc'] = "Àäðåñà ñàéòó";
-$locale['uf_web_001'] = "Â³äâ³äàòè";
-$locale['uf_web_error'] = "Àäðåñà íå ìîæå áóòè ïóñòîþ.";
-?>
+ï»¿<?php$locale['uf_web'] = "Ð¡Ð°Ð¹Ñ‚";$locale['uf_web_desc'] = "ÐÐ´Ñ€ÐµÑÐ° ÑÐ°Ð¹Ñ‚Ñƒ";$locale['uf_web_001'] = "Ð’Ñ–Ð´Ð²Ñ–Ð´Ð°Ñ‚Ð¸";$locale['uf_web_error'] = "ÐÐ´Ñ€ÐµÑÐ° Ð½Ðµ Ð¼Ð¾Ð¶Ðµ Ð±ÑƒÑ‚Ð¸ Ð¿ÑƒÑÑ‚Ð¾ÑŽ.";?>

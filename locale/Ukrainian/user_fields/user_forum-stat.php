@@ -1,4 +1,1 @@
-<?php
-$locale['uf_forum-stat'] = "Òåìè íà ôîðóì³";
-$locale['uf_forum-stat_desc'] = "Ïîâ³äîìëåííÿ íà ôîðóì³";
-?>
+ï»¿<?php$locale['uf_forum-stat'] = "Ð¢ÐµÐ¼Ð¸ Ð½Ð° Ñ„Ð¾Ñ€ÑƒÐ¼Ñ–";$locale['uf_forum-stat_desc'] = "ÐŸÐ¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ Ð½Ð° Ñ„Ð¾Ñ€ÑƒÐ¼Ñ–";?>

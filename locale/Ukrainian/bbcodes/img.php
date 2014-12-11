@@ -1,4 +1,1 @@
-<?php
-$locale['bb_img_description'] = "Âáóäóâàòè çîáðàæåííÿ";
-$locale['bb_img_usage'] = "URL çîáðàæåííÿ";
-?>
+ï»¿<?php$locale['bb_img_description'] = "Ð’Ð±ÑƒÐ´ÑƒÐ²Ð°Ñ‚Ð¸ Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½Ñ";$locale['bb_img_usage'] = "URL Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½Ñ";?>

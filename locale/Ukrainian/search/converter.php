@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $filename_locale['articles.php'] = "Статті";
 $filename_locale['custompages.php'] = "Сторінки";
 $filename_locale['downloads.php'] = "Завантаження";

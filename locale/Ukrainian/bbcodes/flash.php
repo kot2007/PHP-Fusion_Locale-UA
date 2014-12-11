@@ -1,6 +1,1 @@
-<?php
-$locale['bb_flash_description'] = "Âáóäóâàòè ïðîãðàâà÷ ôëåø-â³äåî";
-$locale['bb_flash_usage'] = "URL ôëåø-â³äåî";
-$locale['bb_flash_width'] = "(øèðèíà â px)";
-$locale['bb_flash_height'] = "(âèñîòà â px)";
-?>
+ï»¿<?php$locale['bb_flash_description'] = "Ð’Ð±ÑƒÐ´ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð²Ð°Ñ‡ Ñ„Ð»ÐµÑˆ-Ð²Ñ–Ð´ÐµÐ¾";$locale['bb_flash_usage'] = "URL Ñ„Ð»ÐµÑˆ-Ð²Ñ–Ð´ÐµÐ¾";$locale['bb_flash_width'] = "(ÑˆÐ¸Ñ€Ð¸Ð½Ð° Ð² px)";$locale['bb_flash_height'] = "(Ð²Ð¸ÑÐ¾Ñ‚Ð° Ð² px)";?>

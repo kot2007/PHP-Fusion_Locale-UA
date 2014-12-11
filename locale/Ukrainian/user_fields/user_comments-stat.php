@@ -1,4 +1,1 @@
-<?php
-$locale['uf_comments-stat'] = "Íàä³ñëàí³ êîìåíòàð³";
-$locale['uf_comments-stat_desc'] = "Ê³ëüê³ñòü êîìåíòàð³â";
-?>
+ï»¿<?php$locale['uf_comments-stat'] = "ÐÐ°Ð´Ñ–ÑÐ»Ð°Ð½Ñ– ÐºÐ¾Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ñ–";$locale['uf_comments-stat_desc'] = "ÐšÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ ÐºÐ¾Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ñ–Ð²";?>

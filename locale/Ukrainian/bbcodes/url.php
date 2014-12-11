@@ -1,5 +1,1 @@
-<?php
-$locale['bb_url_displayas'] = "àäðåñà URL";
-$locale['bb_url_description'] = "Ïåðåòâîðèòè íà ïîñèëàííÿ";
-$locale['bb_url_usage'] = "òåêñò ïîñèëàííÿ";
-?>
+ï»¿<?php$locale['bb_url_displayas'] = "ÐÐ´Ñ€ÐµÑÐ° URL";$locale['bb_url_description'] = "ÐŸÐµÑ€ÐµÑ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸ Ð½Ð° Ð¿Ð¾ÑÐ¸Ð»Ð°Ð½Ð½Â¤";$locale['bb_url_usage'] = "Ñ‚ÐµÐºÑÑ‚ Ð¿Ð¾ÑÐ¸Ð»Ð°Ð½Ð½Â¤";?>

@@ -1,7 +1,1 @@
-<?php
-$locale['bb_movie_youtube'] = "YouTube";
-$locale['bb_movie_googlevideo'] = "GoogleVideos";
-$locale['bb_movie_type'] = "youtube|google";
-$locale['bb_movie_description'] = "Âáóäóâàòè ïðîãðàâà÷ â³äåî ç YouTube àáî GoogleVideos";
-$locale['bb_movie_usage'] = "ID â³äåî íà YouTube àáî GoogleVideos";
-?>
+ï»¿<?php$locale['bb_movie_youtube'] = "YouTube";$locale['bb_movie_googlevideo'] = "GoogleVideos";$locale['bb_movie_type'] = "youtube|google";$locale['bb_movie_description'] = "Ð’Ð±ÑƒÐ´ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð²Ð°Ñ‡ Ð²Ñ–Ð´ÐµÐ¾ Ð· YouTube Ð°Ð±Ð¾ GoogleVideos";$locale['bb_movie_usage'] = "ÐÐ¾Ð¼ÐµÑ€ ID Ð²Ñ–Ð´ÐµÐ¾ Ð½Ð° YouTube Ð°Ð±Ð¾ GoogleVideos";?>

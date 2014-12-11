@@ -1,5 +1,1 @@
-<?php
-$locale['bb_allegro'] = "Allegro";
-$locale['bb_allegro_description'] = "Âáóäóâàòè ïîøóêîâèé ñåðâ³ñ Allegro";
-$locale['bb_allegro_usage'] = "òåêñò äëÿ ïîøóêó íà ïîëüñüêîìó ïîðòàë³ Allegro";
-?>
+ï»¿<?php$locale['bb_allegro'] = "Allegro";$locale['bb_allegro_description'] = "Ð’Ð±ÑƒÐ´ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ð¾ÑˆÑƒÐºÐ¾Ð²Ð¸Ð¹ ÑÐµÑ€Ð²Ñ–Ñ Allegro";$locale['bb_allegro_usage'] = "Ñ‚ÐµÐºÑÑ‚ Ð´Ð»Â¤ Ð¿Ð¾ÑˆÑƒÐºÑƒ Ð½Ð° Ð¿Ð¾Ð»ÑŒÑÑŒÐºÐ¾Ð¼Ñƒ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ñ– Allegro";?>

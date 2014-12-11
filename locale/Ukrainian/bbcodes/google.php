@@ -1,4 +1,1 @@
-<?php
-$locale['bb_google_description'] = "Âáóäóâàòè ïîøóêîâèé ñåðâ³ñ Google";
-$locale['bb_google_usage'] = "òåêñò äëÿ ïîøóêó â Google";
-?>
+ï»¿<?php$locale['bb_google_description'] = "Ð’Ð±ÑƒÐ´ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ð¾ÑˆÑƒÐºÐ¾Ð²Ð¸Ð¹ ÑÐµÑ€Ð²Ñ–Ñ Google";$locale['bb_google_usage'] = "Ñ‚ÐµÐºÑÑ‚ Ð´Ð»Â¤ Ð¿Ð¾ÑˆÑƒÐºÑƒ Ð² Google";?>

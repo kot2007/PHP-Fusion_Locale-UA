@@ -1,5 +1,1 @@
-<?php
-$locale['uf_msn'] = "MSN";
-$locale['uf_msn_desc'] = "MSN Messenger";
-$locale['uf_msn_error'] = "MSN íå ìîæå áóòè ïóñòèì.";
-?>
+ï»¿<?php$locale['uf_msn'] = "MSN";$locale['uf_msn_desc'] = "MSN Messenger";$locale['uf_msn_error'] = "MSN Ð½Ðµ Ð¼Ð¾Ð¶Ðµ Ð±ÑƒÑ‚Ð¸ Ð¿ÑƒÑÑ‚Ð¸Ð¼.";?>

@@ -1,4 +1,1 @@
-<?php
-$locale['bb_olist_description'] = "Ñòâîðèòè ñòðóêòóðîâàíèé ñïèñîê âèáðàíîãî òèïó";
-$locale['bb_olist_usage'] = "Teêñò 1 :Enter: Teêñò 2 :Enter: ³ ò. ä.";
-?>
+ï»¿<?php$locale['bb_olist_description'] = "Ð¡Ñ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸ ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ð¾Ð²Ð°Ð½Ð¸Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº Ð²Ð¸Ð±Ñ€Ð°Ð½Ð¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ñƒ";$locale['bb_olist_usage'] = "TeÐºÑÑ‚ 1 :Enter: TeÐºÑÑ‚ 2 :Enter: Ñ– Ñ‚. Ð´.";?>

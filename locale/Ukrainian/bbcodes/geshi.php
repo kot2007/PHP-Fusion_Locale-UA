@@ -1,9 +1,1 @@
-<?php
-$locale['bb_geshi_description'] = "Вбудувати оброблювач коду GeSHi";
-$locale['bb_geshi_usage'] = "текст у форматі коду, сформований з допомогою GeSHi";
-$locale['bb_geshi_lang'] = "тип коду";
-$locale['bb_geshi_parser1'] = "Примітка";
-$locale['bb_geshi_parser2'] = "Код занадто великий для GeSHi! Використайте спеціальний код.";
-$locale['bb_geshi_info'] = "Сформовано за <TIME> сек. через GeSHi <VERSION>";
-$locale['bb_geshi_save'] = "Завантажити";
-?>
+п»ї<?php$locale['bb_geshi_description'] = "Р’Р±СѓРґСѓРІР°С‚Рё РѕР±СЂРѕР±Р»СЋРІР°С‡ РєРѕРґСѓ GeSHi";$locale['bb_geshi_usage'] = "С‚РµРєСЃС‚ Сѓ С„РѕСЂРјР°С‚С– РєРѕРґСѓ, СЃС„РѕСЂРјРѕРІР°РЅРёР№ Р· РґРѕРїРѕРјРѕРіРѕСЋ GeSHi";$locale['bb_geshi_lang'] = "С‚РёРї РєРѕРґСѓ";$locale['bb_geshi_parser1'] = "РџСЂРёРјС–С‚РєР°";$locale['bb_geshi_parser2'] = "РљРѕРґ Р·Р°РІРµР»РёРєРёР№ РґР»СЏ GeSHi! Р’РёРєРѕСЂРёСЃС‚Р°Р№С‚Рµ СЃРїРµС†С–Р°Р»СЊРЅРёР№ РєРѕРґ.";$locale['bb_geshi_info'] = "РЎС„РѕСЂРјРѕРІР°РЅРѕ Р·Р° <TIME> СЃРµРє. С‡РµСЂРµР· GeSHi <VERSION>";$locale['bb_geshi_save'] = "Р—Р°РІР°РЅС‚Р°Р¶РёС‚Рё";?>

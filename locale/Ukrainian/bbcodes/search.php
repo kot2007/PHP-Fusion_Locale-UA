@@ -1,7 +1,1 @@
-<?php
-$locale['bb_search_description'] = "Âáóäóâàòè ïîøóê íà ñàéò³";
-$locale['bb_search_usage'] = "Øóêàòè òåêñò";
-$locale['bb_search_prefix'] = "Øóêàòè íà ñàéò³ [";
-$locale['bb_search_suffix'] = "] â ðîçä³ë³: ";
-$locale['bb_search_where'] = "ì³ñöå ïîøóêó";
-?>
+ï»¿<?php$locale['bb_search_description'] = "Ð’Ð±ÑƒÐ´ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ð¾ÑˆÑƒÐº Ð½Ð° ÑÐ°Ð¹Ñ‚Ñ–";$locale['bb_search_usage'] = "Ð¨ÑƒÐºÐ°Ñ‚Ð¸ Ñ‚ÐµÐºÑÑ‚";$locale['bb_search_prefix'] = "Ð¨ÑƒÐºÐ°Ñ‚Ð¸ Ð½Ð° ÑÐ°Ð¹Ñ‚Ñ– [";$locale['bb_search_suffix'] = "] Ð² Ñ€Ð¾Ð·Ð´Ñ–Ð»Ñ–: ";$locale['bb_search_where'] = "Ð¼Ñ–ÑÑ†Ðµ Ð¿Ð¾ÑˆÑƒÐºÑƒ";?>

@@ -1,6 +1,1 @@
-<?php
-$locale['uf_icq'] = "ICQ";
-$locale['uf_icq_desc'] = "ICQ ID";
-$locale['uf_icq_error'] = "Íîìåð ICQ íå ìîæå áóòè ïîðîæí³ì.";
-$locale['uf_icq_error2'] = "Íîìåð ICQ ïîâèíåí ñêëàäàòèñÿ ëèøå ç öèôð.";
-?>
+ï»¿<?php$locale['uf_icq'] = "ICQ";$locale['uf_icq_desc'] = "ICQ ID";$locale['uf_icq_error'] = "ÐÐ¾Ð¼ÐµÑ€ ICQ Ð½Ðµ Ð¼Ð¾Ð¶Ðµ Ð±ÑƒÑ‚Ð¸ Ð¿Ð¾Ñ€Ð¾Ð¶Ð½Ñ–Ð¼.";$locale['uf_icq_error2'] = "ÐÐ¾Ð¼ÐµÑ€ ICQ Ð¿Ð¾Ð²Ð¸Ð½ÐµÐ½ ÑÐºÐ»Ð°Ð´Ð°Ñ‚Ð¸ÑÑ Ð»Ð¸ÑˆÐµ Ð· Ñ†Ð¸Ñ„Ñ€.";?>

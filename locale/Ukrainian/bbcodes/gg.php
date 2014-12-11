@@ -1,5 +1,1 @@
-<?php
-$locale['bb_gg'] = "Gadu-Gadu";
-$locale['bb_gg_description'] = "Ñòàòóñ êîðèñòóâà÷à â Gadu-Gadu";
-$locale['bb_gg_usage'] = "ID êîðèñòóâà÷à ïîëüñüêîãî êîìóí³êàòîðà Gadu-Gadu";
-?>
+ï»¿<?php$locale['bb_gg'] = "Gadu-Gadu";$locale['bb_gg_description'] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ð° Ð² Gadu-Gadu";$locale['bb_gg_usage'] = "ÐÐ¾Ð¼ÐµÑ€ ID ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ð° Ð¿Ð¾Ð»ÑŒÑÑŒÐºÐ¾Ð³Ð¾ ÐºÐ¾Ð¼ÑƒÐ½Ñ–ÐºÐ°Ñ‚Ð¾Ñ€Ð° Gadu-Gadu";?>

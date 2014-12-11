@@ -1,6 +1,1 @@
-<?php
-$locale['bb_code_description'] = "Ïîêàçàòè òåêñò ÿê êîä";
-$locale['bb_code_usage'] = "òåêñò ó ôîðìàò³ êîäó";
-$locale['bb_code_code'] = "Êîä";
-$locale['bb_code_save'] = "Çàâàíòàæèòè";
-?>
+ï»¿<?php$locale['bb_code_description'] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚Ð¸ Ñ‚ÐµÐºÑÑ‚ ÑÐº ÐºÐ¾Ð´";$locale['bb_code_usage'] = "Ñ‚ÐµÐºÑÑ‚ Ñƒ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ñ– ÐºÐ¾Ð´Ñƒ";$locale['bb_code_code'] = "ÐšÐ¾Ð´";$locale['bb_code_save'] = "Ð—Ð°Ð²Ð°Ð½Ñ‚Ð°Ð¶Ð¸Ñ‚Ð¸";?>

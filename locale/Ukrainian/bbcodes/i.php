@@ -1,4 +1,1 @@
-<?php
-$locale['bb_i_description'] = "Çðîáèòè êóðñèâíèì";
-$locale['bb_i_usage'] = "êóðñèâíèé òåêñò";
-?>
+ï»¿<?php$locale['bb_i_description'] = "Ð—Ñ€Ð¾Ð±Ð¸Ñ‚Ð¸ ÐºÑƒÑ€ÑÐ¸Ð²Ð½Ð¸Ð¼";$locale['bb_i_usage'] = "ÐºÑƒÑ€ÑÐ¸Ð²Ð½Ð¸Ð¹ Ñ‚ÐµÐºÑÑ‚";?>

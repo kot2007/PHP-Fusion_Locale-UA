@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $locale['pl_threads_title'] = "Теми форуму";
 $locale['pl_threads_desc'] = "Ввімкнення статичних посилань для тем форуму.";
 $locale['pl_tags_001'] = "Номер ID теми форуму.";

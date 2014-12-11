@@ -1,5 +1,1 @@
-<?php
-$locale['bb_mail'] = "E-mail àäðåñà";
-$locale['bb_mail_description'] = "Ïåðåòâîðèòè òåêñò íà àäðåñó Å-mail";
-$locale['bb_mail_usage'] = "òåêñò çàïóñêó àäðåñè E-mail";
-?>
+ï»¿<?php$locale['bb_mail'] = "ÐÐ´Ñ€ÐµÑÐ° E-mail";$locale['bb_mail_description'] = "ÐŸÐµÑ€ÐµÑ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸ Ñ‚ÐµÐºÑÑ‚ Ð½Ð° Ð°Ð´Ñ€ÐµÑÑƒ Ð•-mail";$locale['bb_mail_usage'] = "Ñ‚ÐµÐºÑÑ‚ Ð·Ð°Ð¿ÑƒÑÐºÑƒ Ð°Ð´Ñ€ÐµÑÐ¸ E-mail";?>
