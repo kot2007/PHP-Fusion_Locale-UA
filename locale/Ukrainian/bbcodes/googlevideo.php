@@ -1,1 +1,0 @@
-﻿<?php$locale['bb_googlevideo'] = "GoogleVideo";$locale['bb_googlevideo_description'] = "Вбудувати програвач відео з GoogleVideo";$locale['bb_googlevideo_usage'] = "Номер ID відео на GoogleVideo";?>

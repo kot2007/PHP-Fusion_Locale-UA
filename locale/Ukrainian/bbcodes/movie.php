@@ -1,1 +1,0 @@
-﻿<?php$locale['bb_movie_youtube'] = "YouTube";$locale['bb_movie_googlevideo'] = "GoogleVideos";$locale['bb_movie_type'] = "youtube|google";$locale['bb_movie_description'] = "Вбудувати програвач відео з YouTube або GoogleVideos";$locale['bb_movie_usage'] = "Номер ID відео на YouTube або GoogleVideos";?>
