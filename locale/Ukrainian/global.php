@@ -34,7 +34,7 @@
 //Miscellaneous$locale['global_900'] = "Неможливо конвертувати HEX в DEC";//Language Selection$locale['global_ML100'] = "Мова:";$locale['global_ML101'] = "- виберіть мову -";$locale['global_ML102'] = "Мова сайту";$locale['flood'] = "Нові публікації заблоковані до завершення встановленого часу контролю за флудом. Будь ласка, зачекайте %s";$locale['no_image'] = "Зображення відсутнє";
 // ex. oneword.locale.php
 $locale['send_message'] = 'Надіслати повідомлення';$locale['go_profile'] = 'Перейти у профіль %s';
-// Greetings
+// Greetings
 $locale['hello'] = "Вітаємо!";
 $locale['goodbye'] = "На все добре!";
 $locale['welcome'] = "До наступної зустрічі";
@@ -114,4 +114,4 @@ $locale['version'] = "Версія ";
 $locale['browse'] = "Перегляд ...";
 $locale['close'] = 'Закрити';
 $locale['nopreview'] = 'Дані для перегляду відсутні';
-?
+$locale['left'] = "Зліва";$locale['center'] = "Центр";$locale['right'] = "Справа";?
