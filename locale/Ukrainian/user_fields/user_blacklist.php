@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['uf_blacklist'] = "Чорний список";
 $locale['uf_blacklist_desc'] = "Додавання користувача до Чорного списку";
 $locale['uf_blacklist_error'] = "Помилка даних";
