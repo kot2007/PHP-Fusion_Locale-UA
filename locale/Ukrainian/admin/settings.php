@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['400'] = "Налаштування";
 
 // Site Settings

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Admin Links
 $locale['200'] = "Центр керування - <<".$settings['sitename'].">>";
 $locale['ac00'] = "Центр керування";

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Member Management Options
 $locale['400'] = "Користувачі";
 $locale['401'] = "Користувач";
