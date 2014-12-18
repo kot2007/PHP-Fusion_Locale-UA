@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*-------------------------------------------------------+
 | PHP-Fusion Content Management System Version 8
 | Copyright (C) 2002 - 2013 Nick Jones
