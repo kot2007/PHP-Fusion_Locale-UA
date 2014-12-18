@@ -265,6 +265,7 @@ $locale['217'] = "Сміюсь";
 $locale['218'] = "Злий";
 
 // Stage 6 - User Field Categories
+$locale['219'] = "Профіль";
 $locale['220'] = "Контакти";
 $locale['221'] = "Різне";
 $locale['222'] = "Параметри";
