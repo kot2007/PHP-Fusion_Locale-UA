@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['400'] = "Завантаження";
 
 // Download File Information

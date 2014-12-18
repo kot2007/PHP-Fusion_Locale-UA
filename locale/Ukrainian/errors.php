@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Error Levels Desciption
 $locale['E_ERROR'] = "Критичні помилки, що зупиняють викорнання сценарію";
 $locale['E_WARNING'] = "Некритичні помилки виконання";

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['title'] = "Встановлення PHP-Fusion 9";
 $locale['sub-title'] = "Скрипт встановлення PHP-Fusion 9";
 $locale['welcome_title'] = 'Вітаємо у системі встановлення PHP-Fusion 9.00';
